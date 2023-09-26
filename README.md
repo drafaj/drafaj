@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drafaj
-- 📚 Computer Science at FER Zagreb
+- 📚 Master's degree in Computer Science at FER Zagreb
 - 📫 rafaj.damjan@gmail.com
 
 <!---
